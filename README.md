@@ -1,6 +1,6 @@
 # HW1: 从零构建三层神经网络分类器 —— EuroSAT 地表覆盖图像分类
 
-> **课程**：EIE60003 大数据技术前沿讲座
+> **课程**：CS60003 深度学习与空间智能
 > **约束**：不使用 PyTorch / TensorFlow / JAX 等自动微分框架，仅基于 NumPy 手工实现前向传播、反向传播与参数更新。
 
 ---
@@ -155,5 +155,5 @@ Input (12288) → Linear1 → ReLU → Linear2 → ReLU → Linear3 → Softmax 
 
 ## 注意事项
 
-* 本项目为个人作业，严禁使用 PyTorch、TensorFlow、JAX 等支持自动微分的框架
+* 本项目为个人作业
 * 数据集不包含在本仓库中，请自行从 [EuroSAT 官方](https://github.com/phelber/EuroSAT) 获取 RGB 版本
