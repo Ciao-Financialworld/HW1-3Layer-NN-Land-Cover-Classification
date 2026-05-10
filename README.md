@@ -149,7 +149,7 @@ Input (12288) → Linear1 → ReLU → Linear2 → ReLU → Linear3 → Softmax 
 
 训练好的最优模型权重（`best_model_final.pkl`）托管于 Google Drive：
 
-🔗 [点击下载模型权重](https://drive.google.com/drive/folders/1D5ngYKDMrMDC6_6uPZTkv_tBWgBszg3V?usp=drive_link)
+🔗 [点击下载模型权重]([https://drive.google.com/drive/folders/1D5ngYKDMrMDC6_6uPZTkv_tBWgBszg3V?usp=drive_link](https://drive.google.com/drive/folders/1y8Uh_QS1BHlHmEt8eYZEj3o-G3o6KC15?usp=sharing))
 
 ---
 
